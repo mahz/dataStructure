@@ -1,4 +1,4 @@
-package edu.huazhen.sort;
+package edu.mahz.sort;
 
 import java.rmi.RemoteException;
 import java.util.Arrays;
